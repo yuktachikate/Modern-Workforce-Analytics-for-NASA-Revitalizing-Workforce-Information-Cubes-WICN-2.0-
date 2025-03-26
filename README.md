@@ -1,0 +1,2 @@
+# Modern-Workforce-Analytics-for-NASA-Revitalizing-Workforce-Information-Cubes-WICN-2.0-
+This project demonstrates a modern approach to workforce analytics by combining robust ETL processes, multidimensional OLAP analysis, interactive visualizations, and predictive modeling to support strategic workforce planning. It revitalizes NASA's Workforce Information Cubes (WICN) using advanced data-driven methodologies.
